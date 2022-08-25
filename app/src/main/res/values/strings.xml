@@ -2,4 +2,5 @@
     <string name="app_name">Sassy Saloon</string>
     <string name="title_activity_maps">MapsActivity</string>
     <string name="google_map_key">AIzaSyCOKWwwA5wfPhdHUuize35Jk3qP0dx90fw</string>
+    <string name="sassy_saloon">Sassy Saloon</string>
 </resources>
